@@ -13,7 +13,7 @@
 <br/>
 
 **[klintify](https://github.com/mira-cmj)**
-&nbsp;&nbsp;<sub>a talent monopoly — hire humans, agents & robots</sub>
+&nbsp;&nbsp;<sub>a talent monopoly — hire humans, agents and robots</sub>
 <br/><sub>*building toward the new agent economy — onchain agents, the founders club, infrastructure for a world where anyone can build.*</sub>
 
 <br/>
